@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="814ebd8c-c3f6-446e-9754-0df1e1dc630a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2akv16oEIsEpYogkMI0skvDf9k5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ANDY GICHUKI/Desktop/midmorningclasshtml&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ANDY GICHUKI\Desktop\midmorningclasshtml\assets\images" />
+      <recent name="C:\Users\ANDY GICHUKI\Desktop\midmorningclasshtml\assets\images\fruits" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="814ebd8c-c3f6-446e-9754-0df1e1dc630a" name="Changes" comment="" />
+      <created>1704875187487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704875187487</updated>
+      <workItem from="1704875194139" duration="5775000" />
+      <workItem from="1704886504084" duration="215000" />
+      <workItem from="1704895139521" duration="16000" />
+      <workItem from="1704896815717" duration="66000" />
+      <workItem from="1704904272739" duration="52000" />
+      <workItem from="1704960496912" duration="718000" />
+      <workItem from="1704961319720" duration="7972000" />
+      <workItem from="1704974441464" duration="134000" />
+      <workItem from="1705046647458" duration="9464000" />
+      <workItem from="1705063635203" duration="315000" />
+      <workItem from="1705068013583" duration="1014000" />
+      <workItem from="1705079894157" duration="860000" />
+      <workItem from="1705081886737" duration="8000" />
+      <workItem from="1705130769392" duration="150000" />
+      <workItem from="1705131388565" duration="410000" />
+      <workItem from="1705132219458" duration="27000" />
+      <workItem from="1705132285465" duration="20000" />
+      <workItem from="1705306118647" duration="9161000" />
+      <workItem from="1705392273945" duration="7452000" />
+      <workItem from="1705478464016" duration="9596000" />
+      <workItem from="1705565450038" duration="9645000" />
+      <workItem from="1705597907430" duration="41000" />
+      <workItem from="1705598028959" duration="17000" />
+      <workItem from="1705598050261" duration="4000" />
+      <workItem from="1705599967466" duration="963000" />
+      <workItem from="1705651906074" duration="55000" />
+      <workItem from="1705652166547" duration="14000" />
+      <workItem from="1705652788921" duration="71000" />
+      <workItem from="1705652863894" duration="3000" />
+      <workItem from="1705653455481" duration="51000" />
+      <workItem from="1705653511679" duration="17000" />
+      <workItem from="1705655921469" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
